@@ -64,6 +64,8 @@ Download the latest Rocket.Chat version:
 ```bash
 curl -L https://releases.rocket.chat/latest/download -o /tmp/rocket.chat.tgz
 ```
+If you want to install a specific version, replace the "latest" with the number of the version you prefer. 
+For example: https://releases.rocket.chat/3.7.2/download 
 
 ```bash
 tar -xzf /tmp/rocket.chat.tgz -C /tmp
